@@ -22,6 +22,8 @@ namespace Module11_Collections
                 System.Console.ReadKey();
             }
         }
+
+        Dictionary<>
     }
 
     class Person
